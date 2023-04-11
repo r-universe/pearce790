@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "rankrate"]
 	path = rankrate
-	url = https://github.com/cran/rankrate
+	url = https://github.com/pearce790/rankrate
 	shallow = true
 	registered = true
