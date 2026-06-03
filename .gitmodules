@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RaCE.NMA"]
+	path = RaCE.NMA
+	url = https://github.com/pearce790/race.nma
 [submodule "rankrate"]
 	path = rankrate
 	url = https://github.com/pearce790/rankrate
